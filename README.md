@@ -6,16 +6,16 @@ These problems relate to the Python package Tensorflow. We will again use the fa
 
 1. Use Tensorflow to create model
 
-Use Tensorflow to create a model to predict the species of Iris from a flower’s sepal width, sepal length, petal width, and petal length.
+* Use Tensorflow to create a model to predict the species of Iris from a flower’s sepal width, sepal length, petal width, and petal length.
 
 2. Split the data into training and testing
 
-Split the data set into a training set and a testing set. You should investigate the best way to do this, and list any online references used in your notebook. If you wish to, you can write some code to randomly separate the data on the fly.
+* Split the data set into a training set and a testing set. You should investigate the best way to do this, and list any online references used in your notebook. If you wish to, you can write some code to randomly separate the data on the fly.
 
 3. Train the model
 
-Use the testing set to train your model.
+* Use the testing set to train your model.
 
 4. Test the model
 
-Use the testing set to test your model, clearly calculating and displaying the error rate.
+* Use the testing set to test your model, clearly calculating and displaying the error rate.
