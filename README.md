@@ -2,6 +2,8 @@
 This is a problem sheet that was given to me for the module Emerging Technologies by lecture [Ian McLoughlin](https://ianmcloughlin.github.io/). The course module can be located [here](https://emerging-technologies.github.io/).
 TensorFlow is a software framework for building and deploying machine learning models. Machine learning is a different approach than traditional programming. With traditional programming, we write the program that tells the computer exactly what to do to complete the task. With machine learning, we don't explicitly tell the computer how to do something. Instead we show a training data and the machine learning algorithm uses the training data that come up with its own rules to complete the task.
 
+To install Tensorflow on your machine, follow the instructions on the [TensorFlow Website](https://www.tensorflow.org/install/) for your operating system.
+
 # Keras 
 ![keras_logo](https://user-images.githubusercontent.com/14197773/33085794-a86cef1a-cedd-11e7-99f5-cc359e18ef26.jpg)
 
