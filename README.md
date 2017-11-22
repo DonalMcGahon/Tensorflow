@@ -11,7 +11,19 @@ In this problem sheet I also used Keras.
 To install Keras you can simply open a command promt and enter the following command.
 * ```pip install keras```
 
+## Jupyter
+![](https://user-images.githubusercontent.com/22341150/33095125-73d0aedc-cefa-11e7-964e-13828fce0c59.png)
 
+[Jupyter Notebook](http://jupyter.org/) The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+---
+
+## How to run
+You can simply go to Tensorflow.ipynb and my answers to the problem sheet will appear in a jupyter notebook.
+OR 
+You can clone the repository, and run the Tensorflow.ipynb on your own machine.
+You must make sure you have [Jupyter Notebook](http://jupyter.org/install.html) downloaded and working on your machine.
+Then open your command prompt and navigate to this repository.
+Run ```jupyter notebook ``` and go to Tensorflow.ipynb.
 ---
 
 
