@@ -17,6 +17,11 @@ TensorFlow is a software framework for building and deploying machine learning m
 
 
 #### [Jupyter Notebook](http://jupyter.org/) The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+
+# Python
+Python is developed under an OSI-approved open source license, making it freely usable and distributable, even for commercial use. Python's license is administered by the [Python Software Foundation](https://www.python.org/psf/).
+[![Python Versions](http://img.shields.io/pypi/pyversions/Markdown.svg)](http://pypi.python.org/pypi/Markdown)
+
 ---
 
 # How to run
